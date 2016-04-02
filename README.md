@@ -15,7 +15,7 @@ composer install
 php -S 0.0.0.0:8080 -t www
 ```
 
-## run the service form command line
+## run the service form command line.
 
 ```
 echo hola | curl -d @- localhost:8080
