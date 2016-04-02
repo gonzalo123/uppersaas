@@ -1,7 +1,7 @@
 str to upper as a service
 ======
 
-Simple service to convert to upper one string
+Simple service to convert to upper one string.
 
 ## install vendors
 
